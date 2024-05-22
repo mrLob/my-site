@@ -7,3 +7,7 @@
 ## 0.0.2 (22.05.2024) - First update
 
 - Change colors of the site, for better readability in must various cases.
+
+## 0.0.3 (22.05.2024) - Header orthography change
+
+- Change orthography of the header.
